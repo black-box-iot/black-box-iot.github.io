@@ -1,0 +1,52 @@
+{
+    "packages": [
+      {
+        "name": "BLACK-BOX PRO MEGA",
+        "maintainer": "HTFAS",
+        "websiteURL": "https://github.com/black-box-iot/black_box_arduino",
+        "email": "info@black-box.ir",
+        "help": {
+          "online": "https://forum.arduino.cc/index.php?topic=386733"
+        },
+        "platforms": [
+          {
+            "name": "BLACK-BOX PRO MEGA",
+            "architecture": "avr",
+            "version": "2.2.0",
+            "category": "Contributed",
+            "url": "https://github.com/black-box-iot/black_box_arduino/MegaCore-2.2.0.tar.bz2",
+            "archiveFileName": "MegaCore-2.2.0.tar.bz2",
+            "checksum": "SHA-256:e5e231650eaa3e405e5894ebe12f91013a8f0be98e8196958c0edcbdf7ca9a28",
+            "size": "820044",
+            "boards": [
+              {
+                "name": "ATmega128"
+              },
+              {
+                "name": "ATmega64"
+              }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "arduino",
+                "name": "avr-gcc",
+                "version": "7.3.0-atmel3.6.1-arduino7"
+              },
+              {
+                "packager": "arduino",
+                "name": "avrdude",
+                "version": "6.3.0-arduino18"
+              },
+              {
+                "packager": "arduino",
+                "name": "arduinoOTA",
+                "version": "1.3.0"
+              }
+            ]
+          }
+        ],
+        "tools": []
+      }
+    ]
+  }
+  
