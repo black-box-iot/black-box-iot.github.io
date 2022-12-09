@@ -14,8 +14,8 @@
             "architecture": "avr",
             "version": "2.2.0",
             "category": "Contributed",
-            "url": "https://github.com/black-box-iot/proMega/releases/download/BLACKBOX_PROMEGA/proMega.2.2.0.zip",
-            "archiveFileName": "proMega.2.2.0.zip",
+            "url": "https://github.com/black-box-iot/proMega/releases/download/BLACKBOX_PROMEGA/proMega_2_2_0.zip",
+            "archiveFileName": "proMega_2_2_0.zip",
             "checksum": "SHA-256:9CF71672FE93ABEDC3443FBDE790234300648F7D66844BD2D7B09BAE056DEB0E",
             "size": "1122230",
             "boards": [
