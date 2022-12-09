@@ -14,10 +14,10 @@
             "architecture": "avr",
             "version": "2.2.0",
             "category": "Contributed",
-            "url": "https://github.com/black-box-iot/black_box_arduino/releases/download/promega2.2/black_box_arduino.zip",
-            "archiveFileName": "black_box_arduino.zip",
-            "checksum": "SHA-256:8BA0B83DE32538704764D64EFB3FDD98973BD1028C550E7A2AFE4CE969A3600D",
-            "size": "820044",
+            "url": "https://github.com/black-box-iot/black_box_arduino/releases/download/promega2.2/BlackBox_pro_mega-2.2.0.zip",
+            "archiveFileName": "BlackBox_pro_mega-2.2.0.zip",
+            "checksum": "SHA-256:467AE0D7A3F319FB9C058857B5058755E3C270BE5FF1F5EDB2800A3204968061",
+            "size": "493751",
             "boards": [
               {
                 "name": "ATmega128"
