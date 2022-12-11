@@ -16,7 +16,7 @@
             "category": "Contributed",
             "url": "https://github.com/black-box-iot/proMega/releases/download/BLACKBOX_PROMEGA/proMega_2_2_0.zip",
             "archiveFileName": "proMega_2_2_0.zip",
-            "checksum": "SHA-256:9CF71672FE93ABEDC3443FBDE790234300648F7D66844BD2D7B09BAE056DEB0E",
+            "checksum": "SHA-256:78EA0E65582118E7A3C7680337C9CC3EA2C9ED30EC3F38B1904D9962FC78F973",
             "size": "1122230",
             "boards": [
               {
