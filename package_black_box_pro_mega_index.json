@@ -17,7 +17,7 @@
             "url": "https://github.com/black-box-iot/proMega/releases/download/BLACKBOX_PROMEGA/proMega_2_2_0.zip",
             "archiveFileName": "proMega_2_2_0.zip",
             "checksum": "SHA-256:CFEC8AC064FBA52339B81436F5ED6D283D5EC2FC2A968F2ECA1DE43AC846C22A",
-            "size": "1122230",
+            "size": "1121877",
             "boards": [
               {
                 "name": "ATmega128"
